@@ -1,1 +1,3 @@
 # typescript
+
+Bora aprender!!
