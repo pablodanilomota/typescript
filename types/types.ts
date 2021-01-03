@@ -83,3 +83,17 @@ car = {
   year: 2019
 }
 console.log(car)
+
+//funções
+function returnMyName(): string {
+  // return myAge
+  return personalName
+}
+console.log(returnMyName())
+
+function sayHello(): void {
+  console.log('hello')
+  // return myAge
+}
+
+sayHello()
